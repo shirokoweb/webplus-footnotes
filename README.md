@@ -1,1 +1,1 @@
-# webplus-footnotes
+# WebPlus Footnotes Plugin
