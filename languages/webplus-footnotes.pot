@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webplus-footnotes 2.0.0\n"
+"Report-Msgid-Bugs-To: https://webplus.agency\n"
+"POT-Creation-Date: 2023-03-18 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME EMAIL@ADDRESS\n"
+"Language-Team: LANGUAGE LL@li.org\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.1.1-alpha\n"
+"X-GlotPress-Language: \n"
+
+#: webplus-footnotes.php:15
+msgid "This plugin adds footnotes to articles."
+msgstr ""
+
+#: webplus-footnotes.php:21
+msgid "References"
+msgstr ""
