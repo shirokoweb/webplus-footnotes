@@ -13,7 +13,8 @@ The plugin then adds the list of footnotes to the end of the post content.
 ### How to use it:
 
 - Install and activate the plugin on your WordPress site.
-- In the post editor, write your post as usual and add citations in the format of ((citation text ref:URL)). Example: ((This is my fabulous text citing an external source ref:https://domain.tld)). URL must be prefixed by `ref:`
+- In the post editor, write your post as usual and add citations in the format of ((citation text ref:URL)).
+  Example: ((This is my fabulous text citing an external source ref:https://domain.tld)). URL must be prefixed by `ref:`
 - Publish or update the post and view it on the front-end.
 
 The plugin will automatically add superscript links to each citation in the post content and add a list of footnotes to the end of the post.
