@@ -1,4 +1,4 @@
-This is a plugin adds footnotes to WordPress posts.
+This plugin adds footnotes to WordPress posts.
 The plugin is written in PHP and doesn't relay on any other file (beside those for translations).
 
 ## Here is an explanation of how the plugin works and how to use it:
